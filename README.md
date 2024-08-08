@@ -7,17 +7,21 @@
       </samp>
 </h3>
 
-<div align="center"> 
+<div align="center">
  <a href="https://drondao.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="drondao.com" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
+ </a>
+  <a href="https://www.figma.com/@diegorondao" target="_blank">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.hackerrank.com/profile/diegorondao86" target="blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/profile/diegorondao86" />
  </a>
   <a href="https://br.linkedin.com/in/diegorondao" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/diegorondao" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://pt.stackoverflow.com/users/155397/diegorondao" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
   </a>
-  <a href="https://twitter.com/diego_rondao" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>  
+ </a>
 </div>
