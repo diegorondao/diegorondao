@@ -69,9 +69,6 @@
       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031634-ac36b859-0f04-4ca3-acf2-715b67ef0b9d.png" width="40" height="40" alt="Kubernetes" /></a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225032208-0b1eac81-95b2-4127-9a4a-32d5202403f0.png" width="40" height="40" alt="Helm" /></a> 
       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40" height="40" alt="kafka" /></a> 
       <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40" alt="Istio" /></a> 
-      <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/234838357-bc7b09b7-074b-4684-ac3c-1c241d8b2645.png" width="40" height="40" alt="DataDog" /></a> 
-      <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/0379949a-23d1-4aca-a305-9ba74d9220f5" width="50" height="57" alt="https://app.snyk.io/" />
-      <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/f52e1305-b2ee-4c0f-865f-722e6e372f66" width="40" height="40" alt="" />
     </p>
     
    <h3>🗄️ Providers</h3>
@@ -82,7 +79,6 @@
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
       <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" width="36" height="36" alt="IBM" /></a>
       <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/224351610-7df6d88c-3cd8-456e-bba7-8860d5da430b.png" width="50" height="36" alt="OCI" /></a>
-      <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/alibaba-cloud-icon-512x428-yofcvzd8.png" width="30" height="35" alt="Cloud Alibaba" /></a>
     </p>
    <h3>🗄️ Databases and Cloud Hosting</h3>
     <p>
