@@ -38,11 +38,9 @@
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
     <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
@@ -50,7 +48,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
   </p>
     <h3>🧰 DevOps / Tools</h3>
     <p>
@@ -68,7 +65,6 @@
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031143-c4e60e35-713d-40ac-85d3-a35728585aa1.png" width="40" height="40" alt="Docker" /></a>
       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031634-ac36b859-0f04-4ca3-acf2-715b67ef0b9d.png" width="40" height="40" alt="Kubernetes" /></a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225032208-0b1eac81-95b2-4127-9a4a-32d5202403f0.png" width="40" height="40" alt="Helm" /></a> 
       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40" height="40" alt="kafka" /></a> 
-      <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40" alt="Istio" /></a> 
     </p>
     
    <h3>🗄️ Providers</h3>
@@ -76,9 +72,7 @@
       <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="36" height="36" alt="Azure" /></a>
       <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225034857-ed762ddd-3282-47fb-b82a-754a423b8d93.png" width="36" height="36" alt="AWS" /></a>
       <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://nexso.gallerycdn.vsassets.io/extensions/nexso/azure-devops-google-cloud-tools/1.0.101/1632704855784/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="GCP" /></a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
       <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" width="36" height="36" alt="IBM" /></a>
-      <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/224351610-7df6d88c-3cd8-456e-bba7-8860d5da430b.png" width="50" height="36" alt="OCI" /></a>
     </p>
    <h3>🗄️ Databases and Cloud Hosting</h3>
     <p>
@@ -86,7 +80,6 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-      <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
     </p>
    <br />
    <br />
