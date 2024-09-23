@@ -92,7 +92,7 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="diegorondao's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=diegorondao&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
   <summary><h2>🏷️ Holopin Badges</h2></summary>
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/diegorondao" alt="@diegorondao&#39;s Holopin board"></a></p>
+  <p><a href="https://holopin.io/@diegorondao"><img src="https://holopin.me/diegorondao" alt="@diegorondao&#39;s Holopin board"></a></p>
 </div>
 
 
