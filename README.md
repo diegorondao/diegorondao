@@ -67,16 +67,15 @@
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     </p>
    <br />
-   <br />a
+   <br />
   <summary><h2>🏷️ Holopin Badges</h2></summary>
-  <p><a href="https://holopin.io/@diegorondao"><img src="https://holopin.me/diegorondao" alt="@diegorondao&#39;s Holopin board"></a></p>
+  <a href="https://holopin.io/@diegorondao"><img src="https://holopin.me/diegorondao" alt="@diegorondao&#39;s Holopin board"></a></p>
 </div>
 <div align="center">
   <summary><h2>🏅 Credly Badges</h2></summary>
-  <p>
    <!--START_SECTION:badges-->
    <!--END_SECTION:badges-->
-  </p>
 </div>
+
 
 
