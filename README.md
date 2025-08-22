@@ -75,6 +75,7 @@
   <summary><h2>🏅 Credly Badges</h2></summary>
    <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/0e13d013-18b9-4832-b2e9-03028ba418af" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/c0996be4-35fa-4a83-9842-d6557e8427a0" title="AWS Cloud Quest: Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/78975c7c-747c-4ef3-81a5-10da01fb3b97" title="AWS Educate Introduction to Generative AI"><img src="https://images.credly.com/size/80x80/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="AWS Educate Introduction to Generative AI" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e9e95c1e-2138-4282-9c32-0ea2b3667b54" title="LFS158: Introduction to Kubernetes"><img src="https://images.credly.com/size/80x80/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6478c87b-49af-46e5-acc1-62e6e242e868" title="LFS157: Introduction to Serverless on Kubernetes"><img src="https://images.credly.com/size/80x80/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob" alt="LFS157: Introduction to Serverless on Kubernetes" width="80" height="80"></a>
