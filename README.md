@@ -1,8 +1,8 @@
 # Diego Rondão
 
-## Desenvolvedor Full Stack Sênior
+## Senior Full Stack Developer
 
-> Engenharia de Software & Arqutietura | Cloud Architect | System Design
+> Engenharia de Software & Arquitetura | Cloud Architect | System Design
 
 ---
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🏆 Certificações & Emblemas
+## 🏆 Certificações & Badges
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/0e13d013-18b9-4832-b2e9-03028ba418af" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
