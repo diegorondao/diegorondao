@@ -69,15 +69,18 @@
 ## 🏆 Certificações & Badges
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/0e13d013-18b9-4832-b2e9-03028ba418af" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c0996be4-35fa-4a83-9842-d6557e8427a0" title="AWS Cloud Quest: Cloud Practitioner - Training Badge"><img src="https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/5d038e0f-f6df-4245-9f58-26703a065b5b" title="AWS Cloud Quest: Generative AI Practitioner - Training Badge"><img src="https://images.credly.com/size/80x80/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/78975c7c-747c-4ef3-81a5-10da01fb3b97" title="AWS Educate Introduction to Generative AI - Training Badge"><img src="https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" alt="AWS Educate Introduction to Generative AI - Training Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e9e95c1e-2138-4282-9c32-0ea2b3667b54" title="LFS158: Introduction to Kubernetes"><img src="https://images.credly.com/size/80x80/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/6478c87b-49af-46e5-acc1-62e6e242e868" title="LFS157: Introduction to Serverless on Kubernetes"><img src="https://images.credly.com/size/80x80/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob" alt="LFS157: Introduction to Serverless on Kubernetes" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9e44ddad-3c4c-4819-9828-96dc53eb399c" title="Docker Essentials: A Developer Introduction"><img src="https://images.credly.com/size/80x80/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" alt="Docker Essentials: A Developer Introduction" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/5a3b2335-1395-41f8-8bfd-ab328f47f5bd" title="LFS101: Introduction to Linux"><img src="https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/88cc9e5f-9ed2-4b17-9ac4-c17f917085b0" title="LFEL1011: OpenAPI Fundamentals"><img src="https://images.credly.com/size/80x80/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob" alt="LFEL1011: OpenAPI Fundamentals" width="80" height="80"></a>
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/0e13d013-18b9-4832-b2e9-03028ba418af)
+[![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/c0996be4-35fa-4a83-9842-d6557e8427a0)
+[![AWS Cloud Quest: Generative AI Practitioner - Training Badge](https://images.credly.com/size/80x80/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob)](https://www.credly.com/badges/5d038e0f-f6df-4245-9f58-26703a065b5b)
+[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/78975c7c-747c-4ef3-81a5-10da01fb3b97)
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](https://www.credly.com/badges/25f2a695-c253-4a92-a811-fe97d3a17486)
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/80x80/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://www.credly.com/badges/e9e95c1e-2138-4282-9c32-0ea2b3667b54)
+[![LFS157: Introduction to Serverless on Kubernetes](https://images.credly.com/size/80x80/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob)](https://www.credly.com/badges/6478c87b-49af-46e5-acc1-62e6e242e868)
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/80x80/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](https://www.credly.com/badges/9e44ddad-3c4c-4819-9828-96dc53eb399c)
+[![LFS101: Introduction to Linux](https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/5a3b2335-1395-41f8-8bfd-ab328f47f5bd)
+[![LFEL1011: OpenAPI Fundamentals](https://images.credly.com/size/80x80/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/badges/88cc9e5f-9ed2-4b17-9ac4-c17f917085b0)
+[![Create Your First Gemini Enterprise Application](https://images.credly.com/size/80x80/images/3c923d13-42da-4765-995d-59f3030e042a/blob)](https://www.credly.com/badges/b35e0104-c208-4ece-9b7f-4cca222f8f88)
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/badges/8bd478a0-7829-4bf7-95c7-bc4855bd2480)
 <!--END_SECTION:badges-->
 <br />
 
