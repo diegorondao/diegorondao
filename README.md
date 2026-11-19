@@ -69,6 +69,7 @@
 ## 🏆 Certificações & Badges
 
 <!--START_SECTION:badges-->
+[<img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80">](https://www.credly.com/badges/0858f4b2-631d-4ea8-8fb8-c50a4bc6e422)
 [<img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80">](https://www.credly.com/badges/e0f8698f-5983-447b-9c45-39028fc7587b)
 [<img src="https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="80" height="80">](https://www.credly.com/badges/c0996be4-35fa-4a83-9842-d6557e8427a0)
 [<img src="https://images.credly.com/size/80x80/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge" width="80" height="80">](https://www.credly.com/badges/5d038e0f-f6df-4245-9f58-26703a065b5b)
@@ -79,7 +80,6 @@
 [<img src="https://images.credly.com/size/80x80/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" alt="Docker Essentials: A Developer Introduction" width="80" height="80">](https://www.credly.com/badges/9e44ddad-3c4c-4819-9828-96dc53eb399c)
 [<img src="https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="80" height="80">](https://www.credly.com/badges/5a3b2335-1395-41f8-8bfd-ab328f47f5bd)
 [<img src="https://images.credly.com/size/80x80/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob" alt="LFEL1011: OpenAPI Fundamentals" width="80" height="80">](https://www.credly.com/badges/88cc9e5f-9ed2-4b17-9ac4-c17f917085b0)
-[<img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80">](https://www.credly.com/badges/0858f4b2-631d-4ea8-8fb8-c50a4bc6e422)
 [<img src="https://images.credly.com/size/80x80/images/3c923d13-42da-4765-995d-59f3030e042a/blob" alt="Create Your First Gemini Enterprise Application" width="80" height="80">](https://www.credly.com/badges/b35e0104-c208-4ece-9b7f-4cca222f8f88)
 [<img src="https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" alt="Set Up an App Dev Environment on Google Cloud Skill Badge" width="80" height="80">](https://www.credly.com/badges/8bd478a0-7829-4bf7-95c7-bc4855bd2480)
 <!--END_SECTION:badges-->
